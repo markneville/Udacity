@@ -1,2 +1,3 @@
 # udacity
-Udacity courses
+Udacity Nanodegree programs.
+
