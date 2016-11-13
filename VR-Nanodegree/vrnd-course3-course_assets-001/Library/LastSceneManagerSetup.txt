@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VRND-Course3-Course_Assets/Scenes/00-FallingCoconut.unity
+  isLoaded: 1
+  isActive: 1
